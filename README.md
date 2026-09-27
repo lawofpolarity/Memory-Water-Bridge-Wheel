@@ -44,6 +44,7 @@ Relevant physical mechanisms must be stated specifically—e.g. ionic transport,
 - [Reconstruction dossier](RECONSTRUCTION_DOSSIER.md)
 - [Experimental protocol](EXPERIMENTAL_PROTOCOL.md)
 - [Source verification ledger](SOURCE_VERIFICATION_LEDGER.md)
+- [Recoverable research value](RECOVERABLE_RESEARCH_VALUE.md) — survival ledger showing what remains scientifically useful after reframing
 
 ## Non-inference boundary
 
